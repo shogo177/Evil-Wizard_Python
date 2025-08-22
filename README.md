@@ -32,6 +32,7 @@ such as inheritance, methods, and interactions between objects.
 ---------------
 1. Run the script in Python 3:
    > python main.py
+   > In TERMINAL
 
 2. Choose your character class and enter your hero's name.
 3. During battle, select actions from the menu:
